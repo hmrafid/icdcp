@@ -4,10 +4,7 @@ This is a demo project which I downloaded from https://html5up.net/ to practice 
 * Merged all branches to the master branch.
 * Ensured linear commit history.
 
-```
-(log1_ss.png)
-```
+![logs](log1_ss.png)
 
-```
-(log2_ss.png)
-```
+
+![logs](log2_ss.png)
